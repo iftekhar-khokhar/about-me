@@ -2,4 +2,12 @@
   background-color: azure;
   border: 1px solid aquamarine;
   padding: 30px;
+  margin-bottom: 10px;
+}
+
+.details2 {
+	margin-top: 10px;
+	background-color: azure;
+    border: 1px solid aquamarine;
+    padding: 30px;
 }
